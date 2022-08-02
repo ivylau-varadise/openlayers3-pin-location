@@ -1,0 +1,10 @@
+#map {
+    height: 230px;
+  }
+  
+  .ol-attribution.ol-uncollapsible {
+    bottom: 13px;
+  }
+  .ol-attribution:not(.ol-collapsed) {
+    background: transparent;
+  }
